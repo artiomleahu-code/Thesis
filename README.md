@@ -1,2 +1,2 @@
 # Thesis
-Thesis for my University Studies
+Thesis for Electrical Engineering Degree
